@@ -16,5 +16,4 @@ when you want to use SSH instead HTTPS for GitHub authentication.
    Assignments](https://github.com/uis-dat520/labs/blob/master/lab1/README.md#go-assignments)
    in Lab 1, but in Step 3 replace the command with `git remote add labs
    git@github.com:uis-dat520/username-labs.git` (where `username` should be
-   replaced with your own GitHub username). **TODO: Update link above when lab
-   repository is created**
+   replaced with your own GitHub username).
