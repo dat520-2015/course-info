@@ -7,3 +7,5 @@
 * [SSH for GitHub Authentication](http://github.com/uis-dat520/course-info/blob/master/github-ssh.md)
 
 * [Frequently Asked Questions](http://github.com/uis-dat520/course-info/blob/master/FAQ.md)
+
+* [Group Partner Match-up](http://github.com/uis-dat520/course-info/blob/master/group-partner-hunt.md)
