@@ -10,6 +10,8 @@
 
 * [Group Partner Match-up](http://github.com/uis-dat520/course-info/blob/master/group-partner-hunt.md)
 
+* [Go Resources](http://github.com/uis-dat520/course-info/blob/master/go-resources.md)
+
 # Updates to the labs repo
 
 ## Revised lab1: Multiwriter (Fri 16 Jan)
