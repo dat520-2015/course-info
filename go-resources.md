@@ -21,6 +21,7 @@
 * [Testing Techniques](https://talks.golang.org/2014/testing.slide#1)
 * [Organizing Go Code](https://talks.golang.org/2014/organizeio.slide#1)
 * [Francesc Campoy Flores - Things I learned teaching Go](https://www.youtube.com/watch?v=B-r3Wf_I2Lk&index=12&list=PLMW8Xq7bXrG58Qk-9QSy2HRh2WVeIrs7e)
+* [Andrew Gerrand - 5 things I love (or why you should learn Go)](https://www.youtube.com/watch?v=fsTOOPB1TBY)
 
 #### Others:
 
