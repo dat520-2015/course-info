@@ -28,3 +28,4 @@
 * [Go by Example](http://gobyexample.com/)
 * [Lean Go in Y Minutes](http://learnxinyminutes.com/docs/go/)
 * [Gopher Academey Blog](http://blog.gopheracademy.com/)
+* [Building web application with Go](https://github.com/astaxie/build-web-application-with-golang/blob/master/en/SUMMARY.md) - book about web app development (Thanks to Julian Minde for the tip)
