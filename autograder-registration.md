@@ -38,16 +38,16 @@ project in Autograder.
 
 2. In the course menu click on “New Course”. Available courses will be listed.
 
-3. Find the course “uis-dat520” and click sign up.
+3. Find the course “uis-dat520-s16” and click sign up.
 
 4. Read through and accept the terms. You will then be invited to the
-   organization [uis-dat520](http://www.github.com/uis-dat520) on GitHub.
+   organization [uis-dat520-s16](http://www.github.com/uis-dat520-s16) on GitHub.
 
 5. An invitation will be sent to your email address registered with GitHub
    account. Accept the invitation using the received email.
 
 6. Wait for the teaching staff to verify your Autograder-registration.
 
-7. You will get your own repository in the organization "uis-dat520" on GitHub
+7. You will get your own repository in the organization "uis-dat520-s16" on GitHub
    after your registration is verified. You will also have access to the
    feedback pages for this course on Autograder.
